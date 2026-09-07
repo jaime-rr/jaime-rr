@@ -35,9 +35,3 @@
 [![ServiceNow CAD](https://img.shields.io/badge/ServiceNow%20CAD-Certified%20Sep%202026-3c9e4e?style=flat&logo=servicenow&logoColor=white)](https://www.credly.com/earner/earned/badge/31d64862-a749-4bed-a13d-87423a0ec6ca)
 
 *Click the badges to verify on Credly.*
-
-## Background
-
-Three years building software products end to end with a small team — a B2B vehicle-auction
-marketplace (Node.js / Next.js) and a tourist-apartment property platform (Laravel / PHP) —
-selected for Lanzadera, Juan Roig's startup accelerator in Valencia.
