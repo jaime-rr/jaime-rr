@@ -17,7 +17,6 @@
 | Project | What it does | Status |
 |---|---|---|
 | [**Facilities & maintenance request app**](https://github.com/jaime-rr/servicenow-facilities-maintenance) | Office repairs, cost approvals, vendor routing — ServiceNow scoped app | In development — demo video when finished |
-| **Monitoring alert intake hub** | Webhook intake, dedupe, on-call escalation — core-platform ServiceNow | In development — demo video when finished |
 
 ## Stack
 
